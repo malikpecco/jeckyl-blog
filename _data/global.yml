@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Rich Hildred'
 description: 'My Portfolio Site'
-url: 'https://rhildred.github.io' # the base hostname & protocol for your site
+url: 'https://rhildred.github.io/jeckyl-blog' # the base hostname & protocol for your site
 footer_text: '&copy; Rich Hildred'
 
 # Admin Settings
